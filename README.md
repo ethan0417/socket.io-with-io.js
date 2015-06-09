@@ -8,8 +8,11 @@ npm install
 bower install
 
 ## Final
-`iojs app.js` and open bowser `localhost:3000` and open incognito window `localhost:3000`
-Type some word and check out the 2 browser, try it :D
+* Run `iojs app.js`
+* Open bowser `localhost:3000`
+* Open incognito window `localhost:3000`
+* Type some word and check out the 2 browser
+* Try it :D
 
 ## Reference
 http://www.programwitherik.com/socket-io-tutorial-with-node-js-and-express/
