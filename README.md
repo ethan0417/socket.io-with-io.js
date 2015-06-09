@@ -9,3 +9,7 @@ bower install
 
 ## Final
 `localhost:3000` and try it.
+
+## Reference
+http://www.programwitherik.com/socket-io-tutorial-with-node-js-and-express/
+http://socket.io/get-started/chat/
